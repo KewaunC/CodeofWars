@@ -7,3 +7,4 @@ function toCamelCase(str){
       return newStr
     }
   }
+}
