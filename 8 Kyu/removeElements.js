@@ -53,5 +53,3 @@ Pseudo Code
 I need to loop through the array and delete the 1st, 3rd, 5th indexes
 
 */
-
-*/
