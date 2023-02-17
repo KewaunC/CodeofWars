@@ -16,6 +16,4 @@ Summation = n(n+1)2
 */
 
 
-const summation = function (num) {
-    return num * (num + 1) / 2
-   }
+var summation = num => num * (num + 1 )/2
